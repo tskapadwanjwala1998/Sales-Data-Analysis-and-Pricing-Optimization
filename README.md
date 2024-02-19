@@ -17,9 +17,6 @@ The analysis involves data preprocessing like date standardization and numerical
 Key results include identifying the most profitable sales channel, defining customer pricing segments, and determining feature importance for price prediction. 
 Accuracy of 80% was achieved for price prediction.
 
-## Conclusion
-Valuable insights into cost optimization, channel prioritization, and targeted marketing strategies were obtained. The clustering revealed diversity across customer groups.
-
 ## How to Run the Code
 Install dependencies and run the Python(.ipynb) file in Jupyter notebook or Google Colab. Virtual environments are recommended for dependency management.
 
